@@ -1,4 +1,4 @@
-  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap");
 
@@ -9,6 +9,7 @@
 body {
     background-color: black;
 }
+
 
 .nav a { 
   color: whitesmoke;
@@ -848,6 +849,9 @@ header.Navbar {
         justify-content: center; 
         order: 0;
       }
+
+
       
     }
+
   
